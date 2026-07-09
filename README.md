@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hi,%20I'm%20Rishi%20Waghmare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hi,%20I%20am%20Rishi%20Waghmare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/RishiWaghmare12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%2B+Node;Training+ML+models+with+scikit-learn+%2B+Streamlit;Shipping+with+Docker%2C+Jenkins+%26+Vercel;Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%2B+Node%3BTraining+ML+models+with+scikit-learn+%2B+Streamlit%3BShipping+with+Docker%2C+Jenkins+%26+Vercel%3BAlways+learning%2C+always+building." alt="Typing SVG" />
 </a>
 
 </div>
@@ -244,52 +244,6 @@ I haven't landed contributions in external open source projects yet — right no
 </p>
 
 <p align="center"><em>Placeholder links above — swap in your real LinkedIn, portfolio, email, and X handle.</em></p>
-
-<br/>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=RishiWaghmare12&color=2563eb&style=flat-square&label=Profile+Views)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/RishiWaghmare12/RishiWaghmare12/output/github-contribution-grid-snake.svg)
-
-<sub>To enable this animation: add the <code>snk</code> GitHub Action to this repo's workflows — see <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>🎧 Spotify (optional)</b></summary>
-<br/>
-<p align="center">
-<em>Connect a Spotify now-playing widget here — e.g. via <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a>.</em>
-</p>
-</details>
-
-<br/>
-
-<div align="center">
-
-### Support
-
-<a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-
-</div>
 
 <br/>
 

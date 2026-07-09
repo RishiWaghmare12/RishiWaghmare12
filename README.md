@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hi,%20I%20am%20Rishi%20Waghmare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hi,%20I%20am%20Rishi%20Waghmare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Cloud%20and%20DevOps&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/RishiWaghmare12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%2B+Node%3BTraining+ML+models+with+scikit-learn+%2B+Streamlit%3BShipping+with+Docker%2C+Jenkins+%26+Vercel%3BAlways+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%2B+Node%3BTraining+ML+models+with+scikit-learn+%2B+Streamlit%3BShipping+with+Docker%2C+Jenkins+and+Vercel%3BAlways+learning%2C+always+building." alt="Typing SVG" />
 </a>
 
 </div>
